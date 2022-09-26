@@ -8,4 +8,5 @@ public class Order {
     String Address;
     int Customer_id;
     String product_name;
+    String Order_type;
 }
